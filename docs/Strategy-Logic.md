@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Strategy Logic
 
 > **Plain English:** The strategy answers one question every trading day: is TQQQ trending up, trending down, or unclear? It uses three mathematical indicators as evidence. If the trend is clearly up → buy. If clearly down → sell short. Once in a trade, a trailing stop locks in profits and exits automatically. The stop only tightens — it never loosens.
