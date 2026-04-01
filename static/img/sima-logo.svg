@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="32" fill="#0a2d6e"/>
+  <polyline points="24,140 56,110 80,125 104,72 128,88 152,48 176,60" fill="none" stroke="#5dade2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="56" cy="110" r="5" fill="#ffffff"/>
+  <circle cx="104" cy="72" r="5" fill="#ffffff"/>
+  <circle cx="152" cy="48" r="5" fill="#5dade2"/>
+  <circle cx="152" cy="48" r="10" fill="none" stroke="#5dade2" stroke-width="2" opacity="0.5"/>
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">SiMa</text>
+</svg>
