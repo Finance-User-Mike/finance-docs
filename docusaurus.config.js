@@ -25,7 +25,7 @@ const config = {
       title: 'Finance Analyst Hub',
       items: [
         { type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Docs' },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        
         { href: 'https://github.com/Finance-User-Mike/finance-docs', label: 'GitHub', position: 'right' },
       ],
     },
